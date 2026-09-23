@@ -21,8 +21,8 @@ I build high-velocity, zero-bloat, and precision-tailored web and mobile applica
 ---
 
 ### 📊 GitHub Stats
-![Labib's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsmahir&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsmahir&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=lsmahir&show_icons=true&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsmahir&layout=compact&theme=tokyonight" width="49%" />
 
 ---
 
